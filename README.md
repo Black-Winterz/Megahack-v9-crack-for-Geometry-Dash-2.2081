@@ -1,4 +1,7 @@
 # Megahack-v9-crack-for-Geometry-Dash-2.2081
+
+NOTE: This crack is meant for Windows - Android is not supported.
+
 So I see a lot of people have struggled on how to download Megahack for free since the old one is outdated so umm here is the new one. Enjoy!
 If you do not have python installed, install it from https://www.python.org/downloads/windows/ before getting started.
 After installing it, just double click run.bat to automatically download and install HackMega!
