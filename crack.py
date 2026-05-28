@@ -400,7 +400,7 @@ def handle_geode():
                 elif item.filename == "mod.json":
                     mod = json.loads(data)
                     mod["id"] = OUT_FILENAME.removesuffix(".geode")
-                    mod["name"] = "Megahack"
+                    mod["name"] = "Mega Hack"
                     mod["description"] = "Cracked version"
                     data = json.dumps(mod, indent="\t").encode()
                 zip_out.writestr(item, data)
